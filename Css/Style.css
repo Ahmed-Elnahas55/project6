@@ -101,7 +101,7 @@ ul {
 /* End Global Rules */
 /* strat header */
 .header{
-  background-image: url(../image/banner-bg.jpg);
+  background-image: url(../Image/banner-bg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center bottom;
@@ -182,7 +182,7 @@ ul {
 .header .container .parent .text h2::after{
   content: "";
   position: absolute;
-  background-image: url(../image/caption-dec.png);
+  background-image: url(../Image/caption-dec.png);
   width: 202px;
   height: 12px;
   left: 140px;
@@ -668,7 +668,7 @@ footer{
   background-color: var(--main-color);
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(../images/footer-bg.jpg);
+  background-image: url(../Images/footer-bg.jpg);
   min-height: 150px;
   border-radius: 150px 150px 0px 0px;
 }
